@@ -1,0 +1,25 @@
+
+body{
+        background-color: palevioletred;
+    }
+    img{
+        width: 600px;
+    }
+
+    button{
+        margin-top: 1em;
+        justify-content: center;
+    }
+    .center{
+        text-align: center;
+    }
+
+    .row{
+        margin-top: 60px;
+        justify-content: center;
+    }
+
+    h1{
+        font-size: 4em;
+        font-weight: bolder;
+    }
