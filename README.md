@@ -1,4 +1,4 @@
-
+![magic8](https://user-images.githubusercontent.com/93556946/196014946-f2048016-5ff8-498d-a142-1a9b1446f217.PNG)
 ## Project Title
 - MAGIC-8
 
