@@ -15,3 +15,6 @@ If we keep on shaking it it actually generates a whole bunch of different possib
 ## Tools
 
 HTML, CSS, JS.
+
+## Author
+  * Bruktawit Wolde
