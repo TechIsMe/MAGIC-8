@@ -18,3 +18,7 @@ HTML, CSS, JS.
 
 ## Author
   * Bruktawit Wolde
+  
+### Deployment
+
+[Live](https://techisme.github.io/MAGIC-8/)
