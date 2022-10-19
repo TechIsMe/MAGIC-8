@@ -21,4 +21,4 @@ HTML, CSS, JS.
   
 ### Deployment
 
-[Live](https://techisme.github.io/MAGIC-8/)
+[Live Feed](https://techisme.github.io/MAGIC-8/)
